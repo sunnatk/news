@@ -1,0 +1,32 @@
+h1 {
+  font-size: 80px;
+  text-align: center;
+
+} 
+
+.text {
+  font-size: 15px;
+  word-spacing: 20px;
+  text-align: center;
+  }
+
+  .container {
+   display: flex;
+   justify-content: center;
+    
+  }
+
+  .block {
+    float: left;
+    font-size: 14px;
+    width: 400px;
+    text-align: center;
+  }
+
+  .side {
+    margin-left: 90px;
+  }
+
+  .center_info {
+    text-align: center;
+  }
